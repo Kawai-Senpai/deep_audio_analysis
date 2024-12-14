@@ -2,3 +2,5 @@ models/
 kaggle_data/
 cache/*
 !cache/
+*.pyc
+__pycache__/
