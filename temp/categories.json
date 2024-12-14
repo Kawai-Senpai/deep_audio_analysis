@@ -1,0 +1,28 @@
+{
+    "Genre-Based Classes": [
+      "Electronic",
+      "Rock",
+      "Pop",
+      "Cinematic",
+      "Industrial",
+      "Ethnic",
+      "Classical",
+      "Chill"
+    ],
+    "Emotional or Mood-Based Classes": [
+      "Dark",
+      "Happy",
+      "Energetic",
+      "Chill",
+      "Spooky",
+      "Fear"
+    ],
+    "Use-Case or Functional Classes": [
+      "Background",
+      "Trailer",
+      "YouTube-Friendly",
+      "Nature",
+      "Abstract"
+    ]
+  }
+  

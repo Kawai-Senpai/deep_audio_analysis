@@ -1,0 +1,4 @@
+models/
+kaggle_data/
+cache/*
+!cache/
